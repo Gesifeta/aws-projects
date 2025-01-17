@@ -53,6 +53,10 @@ The portfolio website leverages AWS services to meet functional and non-function
    - Provides SSL/TLS certificates for the website.
    - Ensures secure communication, especially for .dev domains.
 
+### Architectural Diagram
+
+![Portfolio Website Architecture](./portfolio-diagram.png)
+
 ## Deployment
 
 The portfolio website is deployed on AWS using a combination of serverless and managed services to ensure scalability and cost-effectiveness. Static assets are hosted on Amazon S3, with global distribution managed by CloudFront. DNS and SSL/TLS management are handled by Route 53 and Certificate Manager, respectively.
@@ -61,5 +65,8 @@ The portfolio website is deployed on AWS using a combination of serverless and m
 
 For questions or further information, feel free to reach out to the project maintainer:  
 **Gemechu Gesifeta**  
+Shaggar, Oromia State, Ethiopia
 
+---
 
+Make sure to upload the architectural diagram image (`portfolio-diagram.png`) to your GitHub repository alongside this README file for it to render properly. Let me know if you'd like any other updates!
