@@ -65,8 +65,3 @@ The portfolio website is deployed on AWS using a combination of serverless and m
 
 For questions or further information, feel free to reach out to the project maintainer:  
 **Gemechu Gesifeta**  
-Shaggar, Oromia State, Ethiopia
-
----
-
-Make sure to upload the architectural diagram image (`portfolio-diagram.png`) to your GitHub repository alongside this README file for it to render properly. Let me know if you'd like any other updates!
